@@ -1,5 +1,7 @@
 # gvt-unused
 
+[![Build Status](https://travis-ci.org/slomek/gvt-unused.svg?branch=master)](https://travis-ci.org/slomek/gvt-unused)
+
 A small [gvt](https://github.com/FiloSottile/gvt)-based tool to list unused dependencies that can be removed from your vendor.
 
 ## Disclaimer
