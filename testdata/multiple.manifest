@@ -1,0 +1,20 @@
+{
+	"version": 0,
+	"dependencies": [
+		{
+			"importpath": "github.com/pkg/errors",
+			"repository": "https://github.com/pkg/errors",
+			"vcs": "git",
+			"revision": "2b3a18b5f0fb6b4f9190549597d3f962c02bc5eb",
+			"branch": "master",
+			"notests": true
+		}, {
+			"importpath": "github.com/gorilla/mux",
+			"repository": "https://github.com/gorilla/mux",
+			"vcs": "git",
+			"revision": "757bef944d0f21880861c2dd9c871ca543023cba",
+			"branch": "master",
+			"notests": true
+		}
+	]
+}

@@ -1,0 +1,40 @@
+{
+	"version": 0,
+	"dependencies": [
+		{
+			"importpath": "github.com/pkg/errors",
+			"repository": "https://github.com/pkg/errors",
+			"vcs": "git",
+			"revision": "2b3a18b5f0fb6b4f9190549597d3f962c02bc5eb",
+			"branch": "master",
+			"notests": true
+		},
+		{
+			"importpath": "golang.org/x/crypto/ssh/terminal",
+			"repository": "https://go.googlesource.com/crypto",
+			"vcs": "git",
+			"revision": "9419663f5a44be8b34ca85f08abc5fe1be11f8a3",
+			"branch": "master",
+			"path": "/ssh/terminal",
+			"notests": true
+		},
+		{
+			"importpath": "golang.org/x/sys/unix",
+			"repository": "https://go.googlesource.com/sys",
+			"vcs": "git",
+			"revision": "314a259e304ff91bd6985da2a7149bbf91237993",
+			"branch": "master",
+			"path": "/unix",
+			"notests": true
+		},
+		{
+			"importpath": "golang.org/x/sys/windows",
+			"repository": "https://go.googlesource.com/sys",
+			"vcs": "git",
+			"revision": "314a259e304ff91bd6985da2a7149bbf91237993",
+			"branch": "master",
+			"path": "windows",
+			"notests": true
+		}
+	]
+}
